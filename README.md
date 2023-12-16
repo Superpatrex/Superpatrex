@@ -28,8 +28,8 @@ I'm currently learning [Topic/Technology]. Always eager to explore new things an
 
 Here are some projects I'm currently working on:
 
-- [Project 1](https://github.com/Superpatrex/InterView.git): Brief description.
-- [Project 2](https://github.com/Superpatrex/Quackademy.git): Brief description.
+- [InterView](https://github.com/Superpatrex/InterView.git): Virtual Reality Application written in Unity utilizing a large language model to interview individuals for different positions in companies, Oculus Voice SDK, and XR Interactive Toolkit.
+- [Quackademy](https://github.com/Superpatrex/Quackademy.git): Virtual Reality Application written in Unity to function as a classroom for neuro-divergent elementary school children
 
 ## 🚀 Interests
 
