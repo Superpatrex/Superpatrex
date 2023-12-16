@@ -2,10 +2,9 @@
 
 ## About Me
 
-Hi there! I'm Superpatrex, a passionate software engineer and honors Computer Science student at the University of Central Florida. Welcome to my GitHub profile!
+Hi there! I'm Superpatrex, a passionate software engineer and Honors Computer Science student at the University of Central Florida. Welcome to my GitHub profile!
 
-- 🌐 Find me on the web: [Your Website or LinkedIn Profile]
-- 📧 Contact me: [Your Email Address]
+- 🌐 Find me on the web: [(https://www.linkedin.com/in/johnandrewscs/)]
 
 ## 🔧 Technologies & Tools
 
@@ -17,12 +16,9 @@ Here are some of the technologies and tools I frequently work with:
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Superpatrex&count_private=true&show_icons=true&theme=dark)
 
-- 🚀 I have [X] commits and counting.
-- ⏱️ I have spent [X] hours on coding.
-
 ## 🌱 Current Learning
 
-I'm currently learning [Topic/Technology]. Always eager to explore new things and broaden my knowledge!
+I'm currently learning and interested in virtual reality and general software development. Always eager to explore new things and broaden my knowledge!
 
 ## 🎯 Current Projects
 
@@ -36,8 +32,7 @@ Here are some projects I'm currently working on:
 Apart from coding, I have a keen interest in:
 
 - 📚 Reading and learning new technologies.
-- 🎸 Playing [Instrument] and exploring music.
-- 🎨 Creating digital art and design.
+- 🍽️ Cooking new foods and always eating.
 
 ## 📫 Let's Connect
 
