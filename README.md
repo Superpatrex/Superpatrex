@@ -39,12 +39,12 @@ Here are some projects I'm currently working on:
 
 ### Knight Hacks
 - 🏆 **2nd Place:** Overall
-- 🚀 Check out my project [InterView](https://github.com/Superpatrex/InterView)
-- 📄 [Devpost](https://devpost.com/software/interview-ai-powered-interview-prep)
+- 🚀 Check out my project [InterView]((https://github.com/Superpatrex/InterView))
+- 📄 [Devpost]((https://devpost.com/software/interview-ai-powered-interview-prep))
 
 ### HackJam
 - 🏆 **1st Place:** Overall
-- 🚀 Check out my project [Project](https://github.com/Superpatrex/Cubedle)
+- 🚀 Check out my project [Cubedle]((https://github.com/Superpatrex/Cubedle))
 
   
 ## 🚀 Interests
