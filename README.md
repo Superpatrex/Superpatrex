@@ -11,11 +11,11 @@ Hi there! I'm Superpatrex, a passionate software engineer and honors Computer Sc
 
 Here are some of the technologies and tools I frequently work with:
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YourUsername&layout=compact&theme=dark)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Superpatrex&layout=compact&theme=dark)
 
 ## 📊 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YourUsername&count_private=true&show_icons=true&theme=dark)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Superpatrex&count_private=true&show_icons=true&theme=dark)
 
 - 🚀 I have [X] commits and counting.
 - ⏱️ I have spent [X] hours on coding.
@@ -28,8 +28,8 @@ I'm currently learning [Topic/Technology]. Always eager to explore new things an
 
 Here are some projects I'm currently working on:
 
-- [Project 1]([link-to-project-1](https://github.com/Superpatrex/InterView.git)): Brief description.
-- [Project 2]([link-to-project-2](https://github.com/Superpatrex/Quackademy.git)): Brief description.
+- [Project 1](https://github.com/Superpatrex/InterView.git): Brief description.
+- [Project 2](https://github.com/Superpatrex/Quackademy.git): Brief description.
 
 ## 🚀 Interests
 
