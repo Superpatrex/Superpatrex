@@ -2,7 +2,7 @@
 
 ## About Me
 
-Hi there! I'm [Your Name], a passionate [your profession or interest] based in [your location]. Welcome to my GitHub profile!
+Hi there! I'm Superpatrex, a passionate software engineer and honors Computer Science student at the University of Central Florida. Welcome to my GitHub profile!
 
 - 🌐 Find me on the web: [Your Website or LinkedIn Profile]
 - 📧 Contact me: [Your Email Address]
@@ -28,8 +28,8 @@ I'm currently learning [Topic/Technology]. Always eager to explore new things an
 
 Here are some projects I'm currently working on:
 
-- [Project 1](link-to-project-1): Brief description.
-- [Project 2](link-to-project-2): Brief description.
+- [Project 1]([link-to-project-1](https://github.com/Superpatrex/InterView.git)): Brief description.
+- [Project 2]([link-to-project-2](https://github.com/Superpatrex/Quackademy.git)): Brief description.
 
 ## 🚀 Interests
 
