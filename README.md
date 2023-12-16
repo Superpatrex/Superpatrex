@@ -34,8 +34,8 @@ Here are some projects I'm currently working on:
 ### ShellHacks
 - 🏆 **1st Place:** Microsoft Mixed Reality Challenge
 - 🏆 **2nd Place:** Assurant Way Challenge
-- 🚀 Check out my team's project [Quackademy]([https://link.com](https://github.com/Superpatrex/Quackademy))
-- 📄 [Devpost]([https://link.com](https://devpost.com/software/interview-ai-powered-interview-prep))
+- 🚀 Check out my team's project [Quackademy]((https://github.com/Superpatrex/Quackademy))
+- 📄 [Devpost]((https://devpost.com/software/interview-ai-powered-interview-prep))
 
 ### Knight Hacks
 - 🏆 **2nd Place:** Overall
