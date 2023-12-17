@@ -29,8 +29,6 @@ Here are some projects I'm currently working on:
 
 ## 💻 Hackathons Attended
 
-## 💻 Hackathons Attended
-
 ### ShellHacks
 - 🏆 **1st Place:** Microsoft Mixed Reality Challenge
 - 🏆 **2nd Place:** Assurant Way Challenge
@@ -57,7 +55,3 @@ Apart from coding, I have a keen interest in:
 ## 📫 Let's Connect
 
 Feel free to reach out for collaboration, discussions, or just to say hi!
-
-[![Linkedin Badge](https://img.shields.io/badge/-YourName-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/YourProfile/)](https://www.linkedin.com/in/YourProfile/)
-[![Website Badge](https://img.shields.io/badge/-YourWebsite-ff7e5f?style=flat-square&logo=HTML5&logoColor=white&link=https://www.yourwebsite.com/)](https://www.yourwebsite.com/)
-[![Email Badge](https://img.shields.io/badge/-Email-ff5722?style=flat-square&logo=Gmail&logoColor=white&link=mailto:youremail@gmail.com)](mailto:youremail@gmail.com)
