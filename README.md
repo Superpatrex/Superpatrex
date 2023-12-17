@@ -32,17 +32,17 @@ Here are some projects I'm currently working on:
 ### ShellHacks
 - 🏆 **1st Place:** Microsoft Mixed Reality Challenge
 - 🏆 **2nd Place:** Assurant Way Challenge
-- 🚀 Check out my team's project [Quackademy]((https://github.com/Superpatrex/Quackademy))
-- 📄 [Devpost]((https://devpost.com/software/interview-ai-powered-interview-prep))
+- 🚀 Check out my team's project [Quackademy](https://github.com/Superpatrex/Quackademy)
+- 📄 [Devpost](https://devpost.com/software/interview-ai-powered-interview-prep)
 
 ### Knight Hacks
 - 🏆 **2nd Place:** Overall
-- 🚀 Check out my project [InterView]((https://github.com/Superpatrex/InterView))
-- 📄 [Devpost]((https://devpost.com/software/interview-ai-powered-interview-prep))
+- 🚀 Check out my project [InterView](https://github.com/Superpatrex/InterView)
+- 📄 [Devpost](https://devpost.com/software/interview-ai-powered-interview-prep)
 
 ### HackJam
 - 🏆 **1st Place:** Overall
-- 🚀 Check out my project [Cubedle]((https://github.com/Superpatrex/Cubedle))
+- 🚀 Check out my project [Cubedle](https://github.com/Superpatrex/Cubedle)
 
   
 ## 🚀 Interests
