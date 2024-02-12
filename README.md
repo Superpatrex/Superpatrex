@@ -26,6 +26,7 @@ Here are some projects I'm currently working on:
 
 - [InterView](https://github.com/Superpatrex/InterView.git): Virtual Reality Application written in Unity utilizing a large language model to interview individuals for different positions in companies, Oculus Voice SDK, and XR Interactive Toolkit.
 - [Quackademy](https://github.com/Superpatrex/Quackademy.git): Virtual Reality Application written in Unity to function as a classroom for neuro-divergent elementary school children
+- [DABOMS](https://github.com/Superpatrex/VRHHI.git): Augmented Reality Application written in Unity using GroKit Core that simulates visual and nervous system disorders for GERT suits, product development, and generation of empathy for those affilicted with those disabilities, diseases, and impairments
 
 ## 💻 Hackathons Attended
 
@@ -43,6 +44,11 @@ Here are some projects I'm currently working on:
 ### HackJam
 - 🏆 **1st Place:** Overall
 - 🚀 Check out my project [Cubedle](https://github.com/Superpatrex/Cubedle)
+
+### VRHHI Virtual Reality and Healthcare Hackathon
+- 🏆 **1st Place:** Overall
+- 🚀 Check out my project [DABOMS](https://github.com/Superpatrex/VRHHI)
+
 
   
 ## 🚀 Interests
