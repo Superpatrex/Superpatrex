@@ -110,4 +110,8 @@ Apart from coding, I have a keen interest in:
 
 ## 📫 Let's Connect
 
-Feel free to reach out for collaboration, discussions, or just to say hi!
+<div align="center">
+ <a href="https://www.linkedin.com/in/johnandrewscs/" target="_blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+ <a href="https://github.com/Superpatrex" target="_blank"><img align="center" src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" target="_blank"></a>  
+  <a href="http://www.jackandrews.xyz" target="_blank"><img align="center" src="https://img.shields.io/badge/Personal%20Website-www.jackandrews.xyz-<BLUE>?style=for-the-badge&logo=google-chrome&logoColor=white" target="_blank"></a>  
+</div>
