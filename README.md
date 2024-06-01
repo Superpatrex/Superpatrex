@@ -3,12 +3,53 @@
 ## About Me
 
 ```cpp
-class Superpatrex {
+#include <iostream>
+#include <string>
+#include <vector>
+
+class Superpatrex
+{
+
+private:
+    std::string username;
+    std::string linkedinUrl;
+    std::vector<std::string> pronouns = {"he", "him", "his"};
+    std::vector<std::string> programmingLanguages = {"C#", "C++", "C", "Java", "Python", "JavaScript"};
+    std::vector<std::string> tools = {"Git", "VS Code", "Unity"};
+    std::vector<std::string> hackathonWins = {"ShellHacks", "KnightHacks", "HackJam",
+                                            "IVRHA Virtual Reality and Healthcare Hackathon"};
+
+    void display(std::string itemName, const std::vector<std::string>& items)
+    {
+        std::cout << itemName << std::endl;
+
+        for (const auto& item : items) {
+            std::cout << " - " << item << std::endl;
+        }
+    }
+
 public:
-    vector<string> pronouns = {"he", "him", "his"};
-    vector<string> code = {"C#", "C++", "C", "Java", "Python", "JavaScript", ""};
-    vector<string> tools = {"Git", "VS_Studio_Code", "Unity"};
+    Superpatrex(std::string uname, std::string linkUrl) : username(uname), linkedinUrl(linkUrl)
+    {
+    }
+
+    void displayUserInfo() {
+        std::cout << "Username: " << username << std::endl;
+        std::cout << "LinkedIn: " << linkedinUrl << std::endl;
+
+        display("Programming Languages", programmingLanguages);
+        display("Tools", tools);
+        display("Hackathon Wins", hackathonWins);
+    }
 };
+
+int main(void)
+{
+    Superpatrex superpatrex("Superpatrex", "https://www.linkedin.com/in/johnandrewscs/");
+    superpatrex.displayUserInfo();
+ 
+    return 0;
+}
 ```
 
 Hi there! I'm Superpatrex, a passionate software engineer and Honors Computer Science student at the University of Central Florida. Welcome to my GitHub profile!
