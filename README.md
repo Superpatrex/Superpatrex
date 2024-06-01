@@ -2,6 +2,15 @@
 
 ## About Me
 
+```cpp
+class Superpatrex {
+public:
+    vector<string> pronouns = {"he", "him", "his"};
+    vector<string> code = {"C#", "C++", "C", "Java", "Python", "JavaScript", ""};
+    vector<string> tools = {"Git", "VS_Studio_Code", "Unity"};
+};
+```
+
 Hi there! I'm Superpatrex, a passionate software engineer and Honors Computer Science student at the University of Central Florida. Welcome to my GitHub profile!
 
 - 🌐 Find me on the web: [My LinkedIn](https://www.linkedin.com/in/johnandrewscs/)
