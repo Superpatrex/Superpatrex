@@ -80,13 +80,13 @@ Here are some projects I'm currently working on:
 
 ## 💻 Hackathons Attended
 
-### ShellHacks
+### ShellHacks 2023
 - 🏆 **1st Place:** Microsoft Mixed Reality Challenge
 - 🏆 **2nd Place:** Assurant Way Challenge
 - 🚀 Check out my team's project [Quackademy](https://github.com/Superpatrex/Quackademy)
 - 📄 [Devpost](https://devpost.com/software/interview-ai-powered-interview-prep)
 
-### Knight Hacks
+### Knight Hacks 2023
 - 🏆 **2nd Place:** Overall
 - 🚀 Check out my project [InterView](https://github.com/Superpatrex/InterView)
 - 📄 [Devpost](https://devpost.com/software/interview-ai-powered-interview-prep)
@@ -95,11 +95,21 @@ Here are some projects I'm currently working on:
 - 🏆 **1st Place:** Overall
 - 🚀 Check out my project [Cubedle](https://github.com/Superpatrex/Cubedle)
 
-### VRHHI Virtual Reality and Healthcare Hackathon
+### VRHA Virtual Reality and Healthcare Hackathon
 - 🏆 **1st Place:** Overall
 - 🚀 Check out my project [DABOMS](https://github.com/Superpatrex/VRHHI)
 
+### ShellHacks 2024
+- 🏆 **2st Place:** Overall
+- 🏆 **1nd Place:** Microsoft AI Challenge
+- 🏆 **2nd Place:** Google Challenge
+- 🚀 Check out my team's project [ARSL](https://github.com/Superpatrex/ARSL)
+- 📄 [Devpost](https://devpost.com/software/arsl-vr-asl-learning)
 
+### Knight Hacks 2024
+- 🏆 **1nd Place:** Most Useful Project
+- 🚀 Check out my project [Chat Clip That](https://github.com/Superpatrex/chat-clip-that)
+- 📄 [Devpost](https://devpost.com/software/chat-clip-that)
   
 ## 🚀 Interests
 
@@ -113,5 +123,5 @@ Apart from coding, I have a keen interest in:
 <div align="center">
  <a href="https://www.linkedin.com/in/johnandrewscs/" target="_blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
  <a href="https://github.com/Superpatrex" target="_blank"><img align="center" src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" target="_blank"></a>  
-  <a href="http://www.jackandrews.xyz" target="_blank"><img align="center" src="https://img.shields.io/badge/Personal%20Website-www.jackandrews.xyz-<BLUE>?style=for-the-badge&logo=google-chrome&logoColor=white" target="_blank"></a>  
+  <a href="https://www.jackandrews.xyz" target="_blank"><img align="center" src="https://img.shields.io/badge/Personal%20Website-https://www.jackandrews.xyz-<BLUE>?style=for-the-badge&logo=google-chrome&logoColor=white" target="_blank"></a>  
 </div>
